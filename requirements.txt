@@ -1,0 +1,4 @@
+﻿openai>=1.40
+mcp>=1.0
+python-dotenv>=1.0
+rich>=13.7
